@@ -1,4 +1,4 @@
-# [Digital Globe](http://javiersl.com/digital)
+# [Digital Globe](http://javiersl.com/digital-globe)
 
 ## Developing Using Source Files
 
